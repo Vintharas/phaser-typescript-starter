@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "noImplicitAny": true,
+    "allowJs": true,
+    "baseUrl": "./",
+    "sourceMap": true,
+    "lib": ["es2016", "dom"]
+  }
+}
